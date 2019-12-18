@@ -11,8 +11,9 @@ file1 =open("DEntry.txt",'r',encoding = 'utf-8')
 
 wb = openpyxl.load_workbook('DExcel.xlsx')
 sheet = wb.active
-sheet = wb.get_sheet_by_name('Sheet1')
+#sheet = wb.get_sheet_by_name('Sheet1')
 
+sheet = wb['Sheet1']
 
 
 for a in sheet['A1':'E10000']: #you can set the range here
