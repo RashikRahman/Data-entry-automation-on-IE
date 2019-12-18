@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93e7cd9d-fde5-4448-a4a1-2017ba67287b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BlankProcess/RecordingSequence.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/BlankProcess/RecordingSequence.xaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DEntry.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DEntry.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DExcel.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/DExcel.xlsx" afterDir="false" />
-    </list>
+    <list default="true" id="93e7cd9d-fde5-4448-a4a1-2017ba67287b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -254,26 +249,26 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2659" y="281" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576430462686" />
-    <state width="1899" height="300" key="GridCell.Tab.0.bottom" timestamp="1576696192935">
+    <state width="1899" height="300" key="GridCell.Tab.0.bottom" timestamp="1576697313131">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1899" height="300" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576518043078" />
-    <state width="1899" height="300" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576696192935" />
-    <state width="1899" height="300" key="GridCell.Tab.0.center" timestamp="1576696192935">
+    <state width="1899" height="300" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576697313131" />
+    <state width="1899" height="300" key="GridCell.Tab.0.center" timestamp="1576697313131">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1899" height="300" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576518043078" />
-    <state width="1899" height="300" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576696192935" />
-    <state width="1899" height="300" key="GridCell.Tab.0.left" timestamp="1576696192935">
+    <state width="1899" height="300" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576697313131" />
+    <state width="1899" height="300" key="GridCell.Tab.0.left" timestamp="1576697313131">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1899" height="300" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576518043078" />
-    <state width="1899" height="300" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576696192935" />
-    <state width="1899" height="300" key="GridCell.Tab.0.right" timestamp="1576696192935">
+    <state width="1899" height="300" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576697313131" />
+    <state width="1899" height="300" key="GridCell.Tab.0.right" timestamp="1576697313131">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1899" height="300" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1576518043078" />
-    <state width="1899" height="300" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576696192935" />
+    <state width="1899" height="300" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1920.1080@1920.0.1920.1080" timestamp="1576697313131" />
     <state x="461" y="182" key="SettingsEditor" timestamp="1576516357499">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
